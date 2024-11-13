@@ -1,8 +1,37 @@
-# About Me
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arina Zaitseva
+======================================================================================================================================
 
-I am a motivated Junior Ruby on Rails Developer with a strong foundation in backend development. I specialize in building scalable web applications, solving complex backend tasks, and writing clean, maintainable code. I enjoy contributing to team success, focusing on high-quality code and collaborating effectively.
+Ruby on Rails Developer
+-----------------------
 
-I am passionate about continuous learning and improving my skills as a backend developer. I enjoy solving problems through coding and am always eager to explore new technologies and frameworks. 
+I am a motivated Junior Ruby on Rails Developer with a strong foundation in backend development. I specialize in building scalable web applications, solving complex backend tasks, and writing clean, maintainable code. I enjoy contributing to team success, focusing on high-quality code and collaborating effectively. I am passionate about continuous learning and improving my skills as a backend developer. I enjoy solving problems through coding and am always eager to explore new technologies and frameworks.
+
+*   🌍  I'm based in Encarnacion, Paraguay
+*   ✉️  You can contact me at [arinaazai@gmail.com](mailto:arinaazai@gmail.com)
+
+### Skills 
+<p align="left">
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" width="36" height="36" alt="Render" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+                    </p>
+                    
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Avanera"><img src="https://github-readme-stats.vercel.app/api?username=Avanera&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Avanera's GitHub stats" /></a>
+
+<a href="https://github.com/Avanera" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avanera&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Avanera/rails-project-66" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avanera&repo=rails-project-66&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Avanera/rails-project-65" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avanera&repo=rails-project-65&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Avanera/rails-project-64" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avanera&repo=rails-project-64&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Avanera/rails-project-63" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Avanera&repo=rails-project-63&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
 
 ## Education
 
@@ -65,26 +94,3 @@ September 2012 - May 2017
 - **Cloud & Containerization**
 - **Frontend Development**
 - **Version Control**
-
-
-## Projects
-
-### **[Form Generator (Gem)](https://github.com/Avanera/rails-project-63)**
-- A Ruby gem for form generation, serving as an alternative to SimpleForm.
-- **Stack:** Ruby, Minitest, Bundler, GitHub Actions, RuboCop.
-
-### **[Collective Blog (Rails)](https://github.com/Avanera/rails-project-64)**
-- A simple blog with authentication/authorization, allowing users to leave comments.
-- **Stack:** Deployed on Render. RoR. RubyGems: Bootstrap, SimpleForm, Devise, Slim, Ancestry.
-
-### **[Bulletins Board (Rails)](https://github.com/Avanera/rails-project-65)**
-- A bulletins board with GitHub account login, search, pagination, and role-based access.
-- **Stack:** RoR. RubyGems: Bootstrap, Kaminari, Ransack, Pundit, Omniauth-Github, Slim, SimpleForm, Active Storage, S3, AASM, Octokit.
-
-### **[Repository Quality Analyzer (Rails)](https://github.com/Avanera/rails-project-66)**
-- A service to track and analyze GitHub repositories, providing quality reports.
-- **Stack:** Dry-container, GitHub API, Webhooks.
-
-## Contact
-
-I live in **Encarnacion, Paraguay** and am open to new opportunities. Feel free to contact me through GitHub for collaboration or inquiries.
