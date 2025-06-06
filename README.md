@@ -4,9 +4,8 @@ Hi ! My name is Arina Zaitseva
 Ruby on Rails Developer
 -----------------------
 
-I am a motivated Junior Ruby on Rails Developer with a strong foundation in backend development. I specialize in building scalable web applications, solving complex backend tasks, and writing clean, maintainable code. I enjoy contributing to team success, focusing on high-quality code and collaborating effectively. I am passionate about continuous learning and improving my skills as a backend developer. I enjoy solving problems through coding and am always eager to explore new technologies and frameworks.
+I am a motivated Ruby on Rails Developer with a strong foundation in backend development. I specialize in building scalable web applications, solving complex backend tasks, and writing clean, maintainable code. I enjoy contributing to team success, focusing on high-quality code and collaborating effectively. I am passionate about continuous learning and improving my skills as a backend developer. I enjoy solving problems through coding and am always eager to explore new technologies and frameworks.
 
-*   🌍  I'm based in Encarnacion, Paraguay
 *   ✉️  You can contact me at [arinaazai@gmail.com](mailto:arinaazai@gmail.com)
 
 ### Skills 
